@@ -22,7 +22,7 @@
     "@types/marked": "^0.6.0",
     "@types/md5": "^2.1.33",
     "@types/mjml": "^4.0.2",
-    "@types/node": "^12.12.12",
+    "@types/node": "^12.20.55",
     "@types/opentype.js": "^0.7.2",
     "@types/prettier": "^1.19.0",
     "@types/prismjs": "^1.9.1",
